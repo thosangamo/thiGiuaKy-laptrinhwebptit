@@ -1,0 +1,70 @@
+.section-one {
+  padding: 160px 0;
+  background-image: url("../images/what-is-global-at-college.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.section-one .inner-content .inner-header {
+  font-size: 40px;
+}
+
+.section-one .inner-content .inner-desc {
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 28px;
+  font-size: 18px;
+}
+
+.section-one .inner-content .inner-header {
+  font-size: 18px;
+}
+
+.form-group {
+  margin: 0;
+}
+
+.form-control {
+  border: 2px solid orange;
+}
+
+.section-one .inner-content .inner-desc {
+  font-size: 14px;
+  margin-bottom: 10px;
+  margin-top: 4px;
+}
+
+.section-one .inner-content .inner-desc span {
+  color: #358CDC;
+}
+
+.btn {
+  background: #358CDC;
+  color: white;
+  padding: 20px 15px;
+  border: solid;
+}
+
+.wrap-button .btn:first-child {
+  margin-right: 30px;
+}
+
+.close-qc {
+  margin-top: 16px;
+}
+
+.close-qc .btn {
+  border: 0;
+  background-color: #4FAE53;
+  padding: 0 16px;
+}
+
+.more {
+  margin-top: 30px;
+  color: orange;
+  font-size: 24px;
+}
